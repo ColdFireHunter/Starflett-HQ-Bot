@@ -1,0 +1,10 @@
+{
+	"folders": [],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\.platformio\\penv\\Scripts;C:\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\Yannik Lorösch\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\Yannik Lorösch\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\Yannik Lorösch\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\Yannik Lorösch\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "esp32test1"
+	}
+}
